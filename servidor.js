@@ -11,8 +11,6 @@ const server1 = http.createServer((req, res)=>{
         nombre: 'Pablo',
         mensaje: 'Primer servidor'
     };
-
-    console.log
     
 })
 
